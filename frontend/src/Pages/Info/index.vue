@@ -91,7 +91,7 @@
       <div class="mt-20">
         <div class="flex items-center gap-x-2">
           <span class="inline-block h-[30px] w-[5px] bg-primary "></span>
-           <h1 class="text-lg font-semibold">EPISODES</h1>
+           <h1 class="text-lg font-semibold mb-3">EPISODES</h1>
           </div>
           <div class="overflow-y-auto max-h-[700px]">
           <div class="grid grid-cols-1 lg:grid-cols-6 gap-5 gap-y-3 lg:gap-y-10 mt-5">
