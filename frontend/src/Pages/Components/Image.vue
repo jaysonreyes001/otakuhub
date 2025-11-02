@@ -2,7 +2,7 @@
      <div>
           <div class="group">
                <div class="image-container w-full relative overflow-hidden block" :class="containerClass">
-                    <div class="z-[99] absolute top-0 left-0 bottom-0 right-0" :class="imageClass"></div>
+                    <div class="z-[30] absolute top-0 left-0 bottom-0 right-0" :class="imageClass"></div>
                     <img :src="props.url" class="absolute z-2 top-0 left-0 right-0 bottom-0 h-full w-full object-cover"  :alt="props.url" />
                     <div class="absolute z-10 transition  bg-opacity-0 group-hover:bg-muted/90 w-full h-full  bg-gray-100 dark:bg-transparent ">
                          <div class="h-full hidden items-center gap-2 justify-center group-hover:flex">
